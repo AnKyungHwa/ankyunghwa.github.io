@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+
+#sideNav {
+    background-color:burlywood !important;
+}
+
+body,
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1,
+.subheading {
+    font-family: 'Jua', sans-serif !important;
+}
+
+.grid .item {
+    width: 33%;
+    display: inline-block;
+    margin: -4px;
+}
+
+.grid .item img {
+    width: 250px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.grid .item p {
+    text-align: center;
+}
